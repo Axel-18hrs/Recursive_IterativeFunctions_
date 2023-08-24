@@ -5,7 +5,7 @@ def iterative_factorial(n):
         result *= i
     return result
 
-# Function to calculate factorial recursively
+# Function to calculate factorial recursively_
 def recursive_factorial(n):
     if n == 0 or n == 1:
         return 1
